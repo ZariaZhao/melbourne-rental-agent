@@ -327,11 +327,11 @@ melbourne-rental-agent/
 
 ## 📧 Contact & Links
 
+**Live Demo:** https://melbourne-rental-agent.streamlit.app/ 
 **Author:** Zaria Zhao  
 **Email:** zaria.xzhao@gmail.com 
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
-**Live Demo:** [Streamlit Cloud Link](https://your-app.streamlit.app)  
+**LinkedIn:** https://www.linkedin.com/in/zaria-zhao/
+
 
 ---
 
